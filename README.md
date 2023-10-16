@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Asad</h1>
 <h3 align="center">A passionate Front-End developer from Pakistan..</h3>
-<img align='right' alt='coding' width='400' src='https://'https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif'
+<img align='right' alt='coding' width='400' src='https://'https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw1BCIkF9MKtvHF6ZH-d3MQ3&ust=1697538553393000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjmgJfP-4EDFQAAAAAdAAAAABAE'
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-asad6061&label=Profile%20views&color=0e75b6&style=flat" alt="m-asad6061" /> </p>
 
